@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: "Architects Daughter";
+    font-size:24px;
+    background-color: #c68c53a8;
+}
+.container1{
+    max-width:90%;
+    margin:0 auto;
+    padding: 0 20px;
+}
+header h1 {
+    font-size: 2.5rem;
+    color:var(--color-primary);
+    line-height: 2;
+}
+ .container2{
+    margin-bottom: 5px;
+    outline: none;
+    font-size: 1.2rem;
+    padding: 7px;
+    border-radius: 3px;
+}
+textarea{
+    box-shadow: 10px 10px 24px 0px rgba(0, 0, 0, 0.75);
+    outline: none;
+    border: none;
+    width: 275px;
+    height: 275px;
+    padding: 40px 25px 25px 25px;
+}
+.container3{
+    margin:5px;
+}
+.note {
+    box-shadow: 10px 10px 24px 0px rgba(0, 0, 0, 0.75);
+    width: 275px;
+    height: 275px;
+    float: left;
+    padding: 0px 25px 25px 25px;
+    /* border: 1px solid #777; */
+    background-color: #fff;
+    border-radius: 3px;
+    margin: 1rem 0;
+    margin-left: 20PX;
+
+}
+.note-counter{
+    font-size: 1.5rem;
+    margin:0px;
+    position: relative;
+    top:5%;
+    left:5%;
+}
+.note-text {
+    font-size: 1.7rem;
+    max-width: 275px;
+    word-wrap: break-word;
+}
+svg{
+    color:black;
+}
+svg{
+    color:black;
+}
+#note-btn{
+    position:static;
+}
+#note-btn1{
+    position: static;
+}
